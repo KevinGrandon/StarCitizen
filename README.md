@@ -4,6 +4,14 @@
 
 controls/x52.xml - Input bindings for using an X-52 Pro. Similar bindings as Elite Dangerous defaults.
 
+## Importing Bindings
+
+* Save the control file to: <starcitizen folder>/Public/USER/Controls/Mappings
+* Navigate to: Options, Keybinding, Advanced Controls Customization.
+* Click Control profiles
+* Click JoystickSaitekX52ProElite
+* Match Keyboard, Mouse, and Joystick options.
+* Click Import.
 
 **Found this useful?**
 
